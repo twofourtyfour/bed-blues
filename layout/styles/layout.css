@@ -538,8 +538,9 @@ padding: 20px;
 }
 
 .center {
-	justify-content:center;
+	justify-content: center;
 	margin: auto;
+	padding: 20px;
   }
 
   .watermeloen {
@@ -565,5 +566,54 @@ button {
 }
 
 .koffiekoek {
-	padding: 50px;
+	padding: 20px;
+    display: flex;}
+
+iframe {
+	float: left; 
+}
+
+.donut {
+	font-size: large;
+}
+
+.flex-container {
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.geel {
+	justify-content: center;
+
+}
+
+.tuna {
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	padding: 200px;
+    flex-direction: column;
+}
+
+.tattoo {
+	margin: auto;
+	text-align: center;
+	padding: 40px;
+	flex-direction: column;
+	width: 60%;
+}
+
+.float-left {
+	float: left;
+	padding: 20px;
+}
+
+.melk {
+	width: 60%;
+	margin: auto;
+	text-align: center;
+	padding: 20px;
+    flex-direction: column;
+
 }
