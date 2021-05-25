@@ -549,7 +549,7 @@ padding: 20px;
 
   .brownie {
     justify-content: center;
-    display: flex;
+flex: auto;
 }
 input {
 	width: 400px;
@@ -613,7 +613,7 @@ iframe {
 	width: 60%;
 	margin: auto;
 	text-align: center;
-	padding: 20px;
+	padding: 10px;
     flex-direction: column;
 
 }
